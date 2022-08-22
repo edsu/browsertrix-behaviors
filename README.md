@@ -100,6 +100,9 @@ Currently, the available site-specific behaviors are available for:
 
 - Twitter
 - Instagram
+- Telegram
+- Facebook
+- Blogger
 
 Additional site-specific behaviors can be added to the [site](./src/site) directory.
 
